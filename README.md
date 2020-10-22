@@ -1,2 +1,2 @@
-# dotnet-templates
-Contains dotnet templates using the Template Engine.
+# `dotnet` Templates
+Contains dotnet templates using the [Template Engine](https://github.com/dotnet/templating/).
